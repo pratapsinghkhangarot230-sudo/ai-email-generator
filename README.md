@@ -4,7 +4,7 @@ A simple AI-style email generator that creates structured professional emails ba
 
 ## Features
 - Generate emails from purpose & context
-- Clean UI with modern design
+- Clean modern UI
 - Copy to clipboard functionality
 
 ## Tech Stack
@@ -12,4 +12,9 @@ A simple AI-style email generator that creates structured professional emails ba
 - Tailwind CSS
 
 ## Demo
-![Demo](./public/demo.png)
+
+### Default UI
+![Default UI](./public/demo.png)
+
+### Generated Output
+![Generated Output](./public/demo1.png)
